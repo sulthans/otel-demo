@@ -7,7 +7,7 @@ Steps :
 
 export JAVA_TOOL_OPTIONS="-javaagent:/Users/sulthan.hammed/Documents/project/lib/opentelemetry-javaagent.jar"
 
-export OTEL_JAVAAGENT_LOGGING=true
+export OTEL_JAVAAGENT_LOGGING=application
 
 export OTEL_SERVICE_NAME="otel-kafka"
 
