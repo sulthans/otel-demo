@@ -5,7 +5,7 @@ java agent - https://opentelemetry.io/docs/languages/java/getting-started/
 
 Steps : 
 
-export JAVA_TOOL_OPTIONS="-javaagent:/Users/sulthan.hammed/Documents/project/lib/opentelemetry-javaagent.jar"
+export JAVA_TOOL_OPTIONS="-javaagent:/Users/sulthansrs/Documents/project/lib/opentelemetry-javaagent.jar"
 
 export OTEL_JAVAAGENT_LOGGING=application
 
